@@ -3,3 +3,4 @@ esta es la historia para git
 esta es otra linea de la historia
 
 y de esto hablaremos hoy
+pero con cambios nuevos depues del hard reset
